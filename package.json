@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jquery": "^3.4.1",
+    "reset-css": "^4.0.1"
+  }
+}
